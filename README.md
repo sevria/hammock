@@ -115,3 +115,7 @@ cargo run -p users
 ## Status
 
 Early development. Not yet supported: middleware, graceful shutdown, request body size limits.
+
+## License
+
+[MIT](LICENSE)
